@@ -28,5 +28,5 @@ yarn start
 
 ## 구현 내용
 
-1. 사용자로부터 입력 받은 시간을 UTC 시간으로 변환 후 서버로 전송
-2. 서버에 저장된 UTC 시간을 받아와 Local 시간으로 변환
+1. 사용자로부터 입력 받은 시간을 UTC 시간으로 변환 후 서버로 전송(src/utils/time.js)
+2. 서버에 저장된 UTC 시간을 받아와 Local 시간으로 변환(src/utils/time.js)
